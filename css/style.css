@@ -1,0 +1,80 @@
+#bod{
+	background-color: #f00;
+	font-family: "Times New Roman", Serif, sans-serif;
+}
+header{
+	color: #fff;
+	font-size: 18px;
+	background-color: #DDD;
+	background-image: url(images/header.jpg);
+}
+.head{
+	padding: 0 20% 3% 20%;
+}
+#section1, #section3, #section4, #section5, #section6, #section7, footer{
+	padding: 3% 20%;
+}
+#menu{
+	margin-top: 20px;
+	font-size: 16px;
+}
+button{
+	color: #fff;
+	height: 35px;
+	border: 1px solid #fff;
+}
+#learn_more{
+	margin: 5px 0 5px 15px;
+	background-color: #f00;
+}
+#choose_decoration{
+	margin: 5px 0 5px 15px;
+	background-color: unset;
+}
+#section1, #section2, #section3, #section5, #section7{
+	background-color: #fff;
+}
+#our_interesting_history, #why_choose_we{
+	padding-top: 7%;
+}
+#hr_line{
+	height: 1px;
+	background-color: #DDD;
+}
+#section4, #section6{
+	background-color: #faf9f9;
+}
+#left_button, #right_button{
+	width: 40px;
+	height: 40px;
+}
+#left_button{
+	float: left;
+}
+#right_button{
+	float: right;
+}
+#section6 div{
+	padding-top: 3%;
+}
+#our{
+	padding-top: 5%;
+}
+#social_icons, #copyright{
+	float: right;
+}
+footer{
+	color: #fff;
+	background-color: #141414;
+}
+
+/* Style all font awesome icons */
+.fa{
+    padding: 5px;
+    margin-top: 25%;
+    font-size: 20px;
+    text-align: center;
+}
+.fa, #copyright, #test{
+	color: #444;
+}
